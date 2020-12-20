@@ -1,4 +1,4 @@
 # Index
 
 
-1. [Machine Learning](machine-learning.md)
+1. [Machine Learning](machine-learning/index.md)
